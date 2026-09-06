@@ -1,0 +1,68 @@
+{
+  "best_run": {
+    "run_id": "d2b12742ad0d467981ffa67b0dc44bec",
+    "params": {
+      "C": 0.1,
+      "max_iter": 100
+    },
+    "accuracy": 1.0,
+    "loss": 0.30113033801803807
+  },
+  "all_runs": [
+    {
+      "run_id": "d2b12742ad0d467981ffa67b0dc44bec",
+      "params": {
+        "C": 0.1,
+        "max_iter": 100
+      },
+      "accuracy": 1.0,
+      "loss": 0.30113033801803807
+    },
+    {
+      "run_id": "dafd8f2723c54b899e1ae4c51ec6ded6",
+      "params": {
+        "C": 0.1,
+        "max_iter": 200
+      },
+      "accuracy": 1.0,
+      "loss": 0.30113033801803807
+    },
+    {
+      "run_id": "b7a2d3c4cc3248648704eed4db0f9fd3",
+      "params": {
+        "C": 1.0,
+        "max_iter": 100
+      },
+      "accuracy": 1.0,
+      "loss": 0.11115035125303466
+    },
+    {
+      "run_id": "5ff77e9007fc4d4cb1b92943aac5775e",
+      "params": {
+        "C": 1.0,
+        "max_iter": 200
+      },
+      "accuracy": 1.0,
+      "loss": 0.11115035125303466
+    },
+    {
+      "run_id": "edca5e3b42bc403c8bcda051f501cffd",
+      "params": {
+        "C": 10.0,
+        "max_iter": 100
+      },
+      "accuracy": 1.0,
+      "loss": 0.042878926602034184
+    },
+    {
+      "run_id": "9e1c8b7edb2b4e26a62c52c1efc47118",
+      "params": {
+        "C": 10.0,
+        "max_iter": 200
+      },
+      "accuracy": 1.0,
+      "loss": 0.042878926602034184
+    }
+  ],
+  "total_runs": 6
+}
